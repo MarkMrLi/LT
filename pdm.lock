@@ -4,8 +4,11 @@
 [metadata]
 groups = ["default"]
 strategy = ["cross_platform", "inherit_metadata"]
-lock_version = "4.4.1"
-content_hash = "sha256:11ebf16c866e99f5b9eb8901fbca37217e6232f21e3a48ec25c19c20a874c849"
+lock_version = "4.5.0"
+content_hash = "sha256:edaae471cee000063d4827ae9f08d47f9ab35d4643e536929cbab069e09d722b"
+
+[[metadata.targets]]
+requires_python = "==3.12.*"
 
 [[package]]
 name = "alabaster"
