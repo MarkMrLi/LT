@@ -141,6 +141,8 @@ client = OpenAI(
     api_key="58e58c9a47c2f8f8fe4698520283a6ed.TFzgfEA0w0OK8PLa",
     base_url="https://open.bigmodel.cn/api/paas/v4/"
 ) 
+OPENAI_API_KEY="************"
+QWEN_API_KEY="sk-7265d708b47d4b95983eb2c1d4b5d0c7"
 # client = OpenAI(
 #     base_url='http://222.20.126.129:11434/v1/',
 
